@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Playlist [
+	<!ELMENTS song  (artist, year, runtime)>
+	<!ATTLIST song id CDATA #REQUIRED>
+	<!ELMENTS artist (#PCDATA)>
+	<!ELEMENTS year (#PCDATA)>
+	<!ELEMENTS runtime (#PCDATA)>
+]>
+<Playlist>
+	<song id="test">
+		<artist>Hello</artist>
+		<year>2014</year>
+		<runtime>5.00s</runtime>
+	</song>	
+</Playlist>
