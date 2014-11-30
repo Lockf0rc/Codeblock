@@ -1,0 +1,15 @@
+[29-Nov-2014 17:40:26 America/Chicago] PHP Parse error:  syntax error, unexpected '__construct' (T_STRING), expecting function (T_FUNCTION) in /home3/lockf0rc/bin/SQL/sqli.php on line 7
+[29-Nov-2014 17:42:44 America/Chicago] PHP Parse error:  syntax error, unexpected '$user' (T_VARIABLE), expecting function (T_FUNCTION) in /home3/lockf0rc/bin/SQL/sqli.php on line 11
+[29-Nov-2014 17:44:11 America/Chicago] PHP Parse error:  syntax error, unexpected '$user' (T_VARIABLE), expecting function (T_FUNCTION) in /home3/lockf0rc/bin/SQL/sqli.php on line 11
+[29-Nov-2014 17:44:14 America/Chicago] PHP Parse error:  syntax error, unexpected '$user' (T_VARIABLE), expecting function (T_FUNCTION) in /home3/lockf0rc/bin/SQL/sqli.php on line 11
+[29-Nov-2014 17:46:39 America/Chicago] PHP Parse error:  syntax error, unexpected '$user' (T_VARIABLE), expecting function (T_FUNCTION) in /home3/lockf0rc/bin/SQL/sqli.php on line 13
+[29-Nov-2014 17:49:20 America/Chicago] PHP Parse error:  syntax error, unexpected '$user' (T_VARIABLE), expecting function (T_FUNCTION) in /home3/lockf0rc/bin/SQL/sqli.php on line 13
+[29-Nov-2014 17:49:25 America/Chicago] PHP Parse error:  syntax error, unexpected '$user' (T_VARIABLE), expecting function (T_FUNCTION) in /home3/lockf0rc/bin/SQL/sqli.php on line 13
+[29-Nov-2014 17:50:24 America/Chicago] PHP Parse error:  syntax error, unexpected '$user' (T_VARIABLE), expecting function (T_FUNCTION) in /home3/lockf0rc/bin/SQL/sqli.php on line 13
+[29-Nov-2014 17:51:08 America/Chicago] PHP Parse error:  syntax error, unexpected '$user' (T_VARIABLE), expecting function (T_FUNCTION) in /home3/lockf0rc/bin/SQL/sqli.php on line 13
+[29-Nov-2014 17:51:21 America/Chicago] PHP Parse error:  syntax error, unexpected '$user' (T_VARIABLE), expecting function (T_FUNCTION) in /home3/lockf0rc/bin/SQL/sqli.php on line 13
+[29-Nov-2014 17:52:52 America/Chicago] PHP Parse error:  syntax error, unexpected '$user' (T_VARIABLE), expecting function (T_FUNCTION) in /home3/lockf0rc/bin/SQL/sqli.php on line 13
+[29-Nov-2014 17:53:07 America/Chicago] PHP Parse error:  syntax error, unexpected '$user' (T_VARIABLE), expecting function (T_FUNCTION) in /home3/lockf0rc/bin/SQL/sqli.php on line 13
+[29-Nov-2014 17:53:16 America/Chicago] PHP Parse error:  syntax error, unexpected '$user' (T_VARIABLE), expecting function (T_FUNCTION) in /home3/lockf0rc/bin/SQL/sqli.php on line 13
+[29-Nov-2014 17:53:53 America/Chicago] PHP Parse error:  syntax error, unexpected '$user' (T_VARIABLE), expecting function (T_FUNCTION) in /home3/lockf0rc/bin/SQL/sqli.php on line 7
+[29-Nov-2014 17:54:18 America/Chicago] PHP Parse error:  syntax error, unexpected '$host' (T_VARIABLE), expecting function (T_FUNCTION) in /home3/lockf0rc/bin/SQL/sqli.php on line 9
