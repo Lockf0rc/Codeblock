@@ -10,7 +10,7 @@
 
 // Set the database access information as constants:
 DEFINE ('DB_USER', 'lockf0rc');
-DEFINE ('DB_PASSWORD', '830178997');
+DEFINE ('DB_PASSWORD', 'XXXXX');
 DEFINE ('DB_HOST', 'localhost');
 DEFINE ('DB_NAME', 'lockf0rc_Test');
 
